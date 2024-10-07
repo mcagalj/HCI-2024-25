@@ -11,12 +11,12 @@
   - [Za rad u laboratoriju](#za-rad-u-laboratoriju)
   - [Za samostalan rad](#za-samostalan-rad)
 
-
-
 **Cilj kolegija** je upoznati studente s važnim aspektima procesa dizajna sučelja usmjerenog krajnjim korisnicima. Studenti će realizirati praktičan projekt u kojem će primijeniti odgovarajuće principe *dobrog dizajna*. Za realizaciju projekta koristit će tehnologije poput [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Figma](https://www.figma.com/), [headless CMS](https://jamstack.org/headless-cms/), Git i drugih.
 
-> [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
+### Važni linkovi <!-- omit in toc -->
 
+- [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
+- Predložak README datoteke za vaš projekt možete pronaći [ovdje](/docs/readme-template/README.md)
 
 ## Iterativni proces dizajna: Faze i smjernice
 
@@ -52,9 +52,8 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
 - Korisnik može pretraživati/filtrirati proizvode ili usluge
 - Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja
 - Jedna od javnih stranica je blog koji treba sadržavati veći broj postova različitog sadržaja (slike, videa, *code snippets*)
-- Dio sadržaja aplikacije pohranjivat će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostavno editiranje sadržaja Detaljniji popis prikladnih CMS sustava dostupan je na [Jamstack](https://jamstack.org/headless-cms/)
-
-  > Student može po želji uključiti i druge sustave (lokalne ili udaljene) za pohranu podataka.
+- Dio sadržaja aplikacije pohranjivat će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostavno editiranje sadržaja
+  - Lista prikladnih CMS sustava dostupana je na [Jamstack](https://jamstack.org/headless-cms/)
 
 ### Demonstracija projekta
 
@@ -78,7 +77,7 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
   
 ### Za rad u laboratoriju
 
-TBA
+- Link na repozitorij - TBA
 
 ### Za samostalan rad
 
