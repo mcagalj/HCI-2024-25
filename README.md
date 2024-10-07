@@ -7,11 +7,12 @@
   - [Zahtjevi web aplikacije](#zahtjevi-web-aplikacije)
   - [Demonstracija projekta](#demonstracija-projekta)
 - [Praktične vježbe](#praktične-vježbe)
+  - [Projektni zadaci](#projektni-zadaci)
   - [Za rad u laboratoriju](#za-rad-u-laboratoriju)
   - [Za samostalan rad](#za-samostalan-rad)
-    - [Projektni zadaci](#projektni-zadaci)
-    - [Tutorijali](#tutorijali)
 
+
+> [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
 
 **Cilj kolegija** je upoznati studente s važnim aspektima procesa dizajna sučelja usmjerenog krajnjim korisnicima. Studenti će realizirati praktičan projekt u kojem će primijeniti odgovarajuće principe *dobrog dizajna*. Za realizaciju projekta koristit će tehnologije poput [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Figma](https://www.figma.com/), [headless CMS](https://jamstack.org/headless-cms/), Git i drugih.
 
@@ -63,13 +64,7 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
 
 ## Praktične vježbe
 
-### Za rad u laboratoriju
-
-TBA
-
-### Za samostalan rad
-
-#### Projektni zadaci
+### Projektni zadaci
 
 1. [Figma Essentials](https://payload.mario-cagalj.from.hr/projektni-zadaci)
 2. Personas, Information Architecture, and Sitemaps
@@ -78,8 +73,12 @@ TBA
 5. Next.js - Dynamic Routes and Data Fetching
 6. Full Responsive Page Coding
 7. TBA
+  
+### Za rad u laboratoriju
 
-#### Tutorijali
+TBA
+
+### Za samostalan rad
 
 - [JavaScript za rad s React-om](/docs/js-for-react.md)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
