@@ -12,9 +12,11 @@
   - [Za samostalan rad](#za-samostalan-rad)
 
 
-> [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
 
 **Cilj kolegija** je upoznati studente s važnim aspektima procesa dizajna sučelja usmjerenog krajnjim korisnicima. Studenti će realizirati praktičan projekt u kojem će primijeniti odgovarajuće principe *dobrog dizajna*. Za realizaciju projekta koristit će tehnologije poput [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Figma](https://www.figma.com/), [headless CMS](https://jamstack.org/headless-cms/), Git i drugih.
+
+> [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
+
 
 ## Iterativni proces dizajna: Faze i smjernice
 
@@ -66,7 +68,7 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
 
 ### Projektni zadaci
 
-1. [Figma Essentials](https://payload.mario-cagalj.from.hr/projektni-zadaci)
+1. [Figma Essentials](https://hci.mario-cagalj.from.hr/projektni-zadaci)
 2. Personas, Information Architecture, and Sitemaps
 3. Next.js - Deploying an Application
 4. Low/High-fidelity Prototypes
