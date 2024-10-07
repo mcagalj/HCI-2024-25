@@ -8,17 +8,13 @@
   - [Web Application Requirements](#web-application-requirements)
   - [Project Demonstration](#project-demonstration)
 
-This repository serves as a template for organizing your semester project.
-
 ## Project Structure
 
-- **`/`** or **`/semester-project`**: The source code of your main project.
-- **`/assignments`**: Results of your semester assignments.
-- **`/docs`**: If using GitHub for documentation (e.g., your final report in Markdown format).
+- **`/`** or **`/semester-project`**: The source code of your main project
+- **`/assignments`**: Results of your semester assignments
+- **`/docs`**: If using GitHub for documentation (e.g., your final report in Markdown format)
 
 ## My Project Links
-
-Please provide the relevant links below. Replace the placeholders with actual URLs.
 
 ### Semester Project
 
