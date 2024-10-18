@@ -78,7 +78,7 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
 ### Za rad u laboratoriju
 
 - [Figma prototypes](/docs/figma-prototypes/README.md)
-- Link na repozitorij - TBA
+- [Next.js repo za rad na labovima](https://github.com/mcagalj/design-agency-webapp)
 
 ### Za samostalan rad
 
