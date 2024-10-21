@@ -16,7 +16,8 @@
 ### Važni linkovi <!-- omit in toc -->
 
 - [**Web stranica kolegija**](https://hci.mario-cagalj.from.hr/)
-- Predložak README datoteke za vaš projekt možete pronaći [ovdje](/docs/readme-template/README.md)
+- [Predložak README datoteke](/docs/readme-template/README.md)
+- [Discord server](https://discord.gg/w6Jgs6g4) (gdje možeš postavljati pitanja, tražiti pomoć i pomoći drugima)
 
 ## Iterativni proces dizajna: Faze i smjernice
 
