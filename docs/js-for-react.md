@@ -189,7 +189,7 @@ const user = { name: "Jean" };
 function printUser({ name, role = "user", followers = 0 }) {
   console.log(name, role, followers);
 }
-printUser(user); // Jean admin 0
+printUser(user); // Jean user 0
 
 ```
 
