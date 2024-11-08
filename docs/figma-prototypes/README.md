@@ -38,6 +38,10 @@ A sitemap is a visual representation of the structure and organization of a webs
 
 ## High Fidelity Prototype
 
+### Mobile: Homepage
+
+![Homepage mobile - HiFi](homepage_hifi_mobile.png)
+
 ### Desktop: Homepage
 
 ![Homepage - HiFi](homepage_hifi.png)
