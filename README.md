@@ -70,7 +70,7 @@ Dizajn je iterativni postupak u kojem prolazimo kroz faze *dizajna*, *implementa
 
 1. [Figma Essentials](https://hci.mario-cagalj.from.hr/projektni-zadaci/1)
 2. [User Personas and Information Architecture](https://hci.mario-cagalj.from.hr/projektni-zadaci/2)
-3. Next.js - Deploying an Application
+3. [Next.js - Deploying an Application](https://hci.mario-cagalj.from.hr/projektni-zadaci/3)
 4. Low/High-fidelity Prototypes
 5. Next.js - Dynamic Routes and Data Fetching
 6. Full Responsive Page Coding
